@@ -1,6 +1,6 @@
 (ns gtest.core-test
   (:require [clojure.test :refer :all]
-            [my-pro.core :refer :all]))
+            [gtest.core :refer :all]))
 
 (deftest a-test
   (testing "FIXME, I fail."
